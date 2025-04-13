@@ -1,0 +1,36 @@
+#TBCxUSAIDabout{
+    width: 100%;
+    background-color: var(--slightGray);
+    height: fit-content;
+    }
+#TBCxUSAIDaboutWrapper{
+    width: var(--leftRightPaddings);
+    height: fit-content;
+    background-color: transparent;
+    margin: auto;
+}
+#TBCxUSAIDaboutTextDiv{
+    margin-right: 40px;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    color: white;
+    font-size: 1.5vw;
+    /* line-height: 26px; */
+    font-weight: 400;
+}
+#TBCxUSAIDaboutTextDiv p{
+    all: unset;
+}
+#buttonForMoreInfoDiv{
+    padding-bottom: 40px;
+}
+#buttonForMoreInfoDiv a{
+    all: unset;
+    color: var(--TBCBlue);
+    font-size: 1.3vw;
+    cursor: pointer;
+    transition: 0.15s ease-in;
+}
+#buttonForMoreInfoDiv a:hover{
+    color: var(--TBCBlueDarker);
+}
