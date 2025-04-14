@@ -20,11 +20,5 @@ Use the link: [https://kopala13.github.io/TBC/](https://ge0rgem.github.io/TBC/)
 ### Option 2
 From the Code section, download the ZIP file. When you extract it, open `index.html` in your desired web browser.
 
-## How to Use Project
-### To Set Up Project Locally
-Firstly, you need to have Git installed. Link: [https://git-scm.com/](https://git-scm.com/)
-### Next Step is to Clone the Repository
-Navigate to where you want to clone the Repository: **cd path/to/your/directory**   
-Use this command to clone the Repository: `git clone https://github.com/Ge0rgeM/TBC.git`
 ### Access Project 
 Lastly, to access the project file, open the file `index.html` in your browser.
